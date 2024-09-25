@@ -6,8 +6,8 @@ A reinforcement learning project demonstrating a high-ranking performance in AWS
 1. [Overview](#overview)  
 2. [Reinforcement Learning and AWS DeepRacer](#reinforcement_learning)  
 3. [Model Training](#model_training)  
-4. [Rank and Achievements](#rank_and_achievements)  
-5. [Track and Environment](#track_and_environment)  
+4. [Track and Environment](#track_and_environment)   
+5. [Rank and Achievements](#rank_and_achievements)   
 6. [Inferences](#inferences)
 
 ---
